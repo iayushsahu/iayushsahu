@@ -1,5 +1,5 @@
 
-<h1> Hello Fellow < Developers />! <img src = "https://c.tenor.com/JUM6g9MQaVoAAAAj/feline-new-computer.gif" width = 5px> </h1>
+<h1> Hello Fellow < Developers />! </h1>
 <p align='center'>
    
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=iayushsahu.iayushsahu)
