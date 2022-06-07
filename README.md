@@ -12,7 +12,7 @@
    <div size='20px'> Hi! My name is <strong>Ayush</strong>. Thank You for taking the time to view my GitHub Profile! 
 </div>
 
-<h2> About Me <img src='https://media.giphy.com/media/Q2hYUcmWfT4aJ80Hz3/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+<h2> About Me</h2>
 
 :house_with_garden: &nbsp; I’m from India  <br>
 🔭 &nbsp; I’m currently working on  my portfolio. <br>
@@ -24,7 +24,7 @@
 💬 &nbsp; Talk to me about JavaScript or anything code related 🙂. <br>
 
 
-<h2> Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px> </h2>
+<h2> Tech Stack </h2>
   
    
 ![JAVA](https://img.shields.io/badge/-Java-444444?style=flat&logo=JAVA)
@@ -42,7 +42,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-## Learning <img src = "https://media.giphy.com/media/fjOdkUskrUGyOZTHhQ/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px>
+## Learning 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -50,7 +50,7 @@
 
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px"> </h2>
+<h2> Connect with me </h2>
 <a href="https://linkedin.com/in/iayushsahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iayushsahu" height="20" width="30" /></a>
 <a href="https://instagram.com/iayushsahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iayushsahu" height="20" width="30" /></a>
 <a href="https://fb.com/iayushsahu22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iayushsahu22" height="20" width="30" /></a>
@@ -64,7 +64,7 @@
 <a href="https://auth.geeksforgeeks.org/user/iayushsahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="iayushsahu" height="20" width="30" /></a>
 
 
-<h2> My Work <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px></h2>
+<h2> My Work </h2>
   
    <p align="center">
 <a>
@@ -72,7 +72,7 @@
 </a> </p>
 
 
-<h2> My GitHub Stats <img src='https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+<h2> My GitHub Stats </h2>
 
 <p align="center">
 <a>
