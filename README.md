@@ -15,7 +15,7 @@
 <h2> About Me</h2>
 
 :house_with_garden: &nbsp; I’m from India  <br>
-🔭 &nbsp; I’m currently working on  my portfolio. <br>
+🔭 &nbsp; I’m currently working at [Amelia.ai](https://amelia.ai/). <br>
 🎓 &nbsp; I recently graduated as a <strong>Full Stack Web Developer</strong> from the  [BIST Bhopal](https://www.bistbpl.in/)- Bhopal.<br>
 🎓 &nbsp; I have a BTech in Stream Information Technology. <br>
 :woman_technologist: &nbsp; I study daily to improve my coding skills. <br>
