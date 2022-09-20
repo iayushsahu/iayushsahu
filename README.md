@@ -12,7 +12,7 @@
    Thank You for taking the time to view my GitHub Profile! 
 </div>
 <div>
-   <img width="55%" align="right" alt="web development" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" />
+   <img width="55%" align="right" alt="web development" src="https://github.com/iayushsahu/img-for-projects/blob/main/animation_500_kxa883sd.gif" />
 </div>
 <h2> About Me</h2>
 
@@ -40,18 +40,20 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-444444?style=flat&logo=mongodb)
 ![HTML](https://img.shields.io/badge/-HTML-444444?style=flat&logo=HTML5) 
 ![CSS](https://img.shields.io/badge/-CSS-444444?style=flat&logo=CSS3&logoColor=1572B6)
+![Material-ui](https://img.shields.io/badge/-Mui-444444?style=flat&logo=Mui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-444444?style=flat&logo=bootstrap)
 ![Scss](https://img.shields.io/badge/-SCSS-444444?style=flat&logo=sass)
 ![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=mysql&logoColor=F29111)
 ![Git](https://img.shields.io/badge/-Git-444444?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github)
 ![Atom](https://img.shields.io/badge/-Atom-444444?style=flat&logo=Atom&logoColor=007ACC)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Netlify](https://img.shields.io/badge/-Netlify-444444?style=flat&logo=Netlify&logoColor=007ACC)
 ![Heroku](https://img.shields.io/badge/-Heroku-444444?style=flat&logo=Heroku&logoColor=007ACC)
 ![Codepen](https://img.shields.io/badge/-Codepen-444444?style=flat&logo=Codepen&logoColor=007ACC)
 ![Windows](https://img.shields.io/badge/-Windows-444444?style=flat&logo=Windows&logoColor=007ACC)
 ![Linux](https://img.shields.io/badge/-Linux-444444?style=flat&logo=Linux&logoColor=007ACC)
+![Kalilinux](https://img.shields.io/badge/-Kalilinux-444444?style=flat&logo=Kalilinux&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ## Learning 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
