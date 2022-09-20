@@ -1,5 +1,5 @@
 
-<h1> Hello Fellow < Developers />! </h1>
+<h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello < Developers />! </h1>
 <p align='center'>
    
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=iayushsahu.iayushsahu)
@@ -9,7 +9,10 @@
    <img width="55%" align="right" alt="web development" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" />
 
    
-   <div size='20px'> Hi! My name is <strong>Ayush</strong>. Thank You for taking the time to view my GitHub Profile! 
+   <div size='20px'> Hi! My name is <strong>Ayush</strong>. 
+   
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+software+engineer;I+am+a+passionate+web+developer)](https://git.io/typing-svg)
+Thank You for taking the time to view my GitHub Profile! 
 </div>
 
 <h2> About Me</h2>
@@ -20,7 +23,7 @@
 
 - 💬 Ask me about **react, Javascript , MERN, DSA**
 
-- 📫 How to reach me **sahuayush221000@gmail.com**
+- 📫 How to reach me [**iayushsahu**](https://www.linkedin.com/in/iayushsahu)
 
 - 📄 Know about my experiences [Resume 👆](https://ayushsahu.netlify.app/static/media/Ayush_Sahu_Resume.6378776b.pdf)
 
