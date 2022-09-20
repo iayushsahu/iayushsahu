@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **react, Javascript , MERN, DSA**
 
-- 📫 How to reach me [**iayushsahu**](https://www.linkedin.com/in/iayushsahu)
+- 📫 How to reach me [**iayushsahu 👈**](https://www.linkedin.com/in/iayushsahu)
 
 - 📄 Know about my experiences [Resume 👆](https://ayushsahu.netlify.app/static/media/Ayush_Sahu_Resume.6378776b.pdf)
 
