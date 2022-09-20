@@ -46,6 +46,7 @@
 ![Git](https://img.shields.io/badge/-Git-444444?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Atom](https://img.shields.io/badge/-Atom-444444?style=flat&logo=Atom&logoColor=007ACC)
 
 ## Learning 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
