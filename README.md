@@ -8,6 +8,7 @@
 <div size='20px'> Hi! My name is <strong>Ayush</strong>. 
    
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+software+engineer;I+am+a+passionate+web+developer)](https://git.io/typing-svg)
+   <br>
    Thank You for taking the time to view my GitHub Profile! 
 </div>
 <div>
@@ -17,7 +18,7 @@
 
 - 👨‍💻 I’m currently working at **[Amelia.ai 🤖](https://amelia.ai/)**
 
-- 🕸️ All of my projects are available at my [Portfolio Site 👆](https://ayushsahu.netlify.app)
+- 🕸️ All of my projects are available at my [Portfolio 👆](https://ayushsahu.netlify.app)
 
 - 💬 Ask me about **react, Javascript , MERN, DSA**
 
