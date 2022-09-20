@@ -48,6 +48,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Atom](https://img.shields.io/badge/-Atom-444444?style=flat&logo=Atom&logoColor=007ACC)
 ![Netlify](https://img.shields.io/badge/-Netlify-444444?style=flat&logo=Netlify&logoColor=007ACC)
+![Heroku](https://img.shields.io/badge/-Heroku-444444?style=flat&logo=Heroku&logoColor=007ACC)
 
 ## Learning 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
