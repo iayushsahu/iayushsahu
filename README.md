@@ -6,7 +6,7 @@
    
 </p>
    
-   <img width="55%" align="right" alt="web development" src="https://thumbs.gfycat.com/ColorlessBitesizedKob-size_restricted.gif" />
+   <img width="55%" align="right" alt="web development" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" />
 
    
    <div size='20px'> Hi! My name is <strong>Ayush</strong>. Thank You for taking the time to view my GitHub Profile! 
