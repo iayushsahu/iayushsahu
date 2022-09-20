@@ -32,23 +32,26 @@
 <h2> Tech Stack </h2>
   
    
-![JAVA](https://img.shields.io/badge/-Java-444444?style=flat&logo=JAVA)
-![HTML](https://img.shields.io/badge/-HTML-444444?style=flat&logo=HTML5) 
-   ![CSS](https://img.shields.io/badge/-CSS-444444?style=flat&logo=CSS3&logoColor=1572B6)
-   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-444444?style=flat&logo=bootstrap)
-![Scss](https://img.shields.io/badge/-SCSS-444444?style=flat&logo=sass)
+![Java](https://img.shields.io/badge/-Java-444444?style=flat&logo=Java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-444444?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-444444?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-444444?style=flat&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-444444?style=flat&logo=express)
-![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=mysql&logoColor=F29111)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-444444?style=flat&logo=mongodb)
-![React](https://img.shields.io/badge/-React-444444?style=flat&logo=react)
+![HTML](https://img.shields.io/badge/-HTML-444444?style=flat&logo=HTML5) 
+![CSS](https://img.shields.io/badge/-CSS-444444?style=flat&logo=CSS3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-444444?style=flat&logo=bootstrap)
+![Scss](https://img.shields.io/badge/-SCSS-444444?style=flat&logo=sass)
+![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=mysql&logoColor=F29111)
 ![Git](https://img.shields.io/badge/-Git-444444?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github)
 ![Atom](https://img.shields.io/badge/-Atom-444444?style=flat&logo=Atom&logoColor=007ACC)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Netlify](https://img.shields.io/badge/-Netlify-444444?style=flat&logo=Netlify&logoColor=007ACC)
 ![Heroku](https://img.shields.io/badge/-Heroku-444444?style=flat&logo=Heroku&logoColor=007ACC)
+![Codepen](https://img.shields.io/badge/-Codepen-444444?style=flat&logo=Codepen&logoColor=007ACC)
+![Windows](https://img.shields.io/badge/-Windows-444444?style=flat&logo=Windows&logoColor=007ACC)
+![Linux](https://img.shields.io/badge/-Linux-444444?style=flat&logo=Linux&logoColor=007ACC)
 
 ## Learning 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
