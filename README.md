@@ -14,14 +14,17 @@
 
 <h2> About Me</h2>
 
-:house_with_garden: &nbsp; I’m from India  <br>
-🔭 &nbsp; I’m currently working at [Amelia.ai](https://amelia.ai/). <br>
-🎓 &nbsp; I recently graduated as a <strong>Full Stack Web Developer</strong> from the  [BIST Bhopal](https://www.bistbpl.in/)- Bhopal.<br>
-🎓 &nbsp; I have a BTech in Stream Information Technology. <br>
-:woman_technologist: &nbsp; I study daily to improve my coding skills. <br>
-👯 &nbsp; I’m looking to collaborate on Projects. <br>
-:art: &nbsp; In my free time I like to Reading Books. <br> 
-💬 &nbsp; Talk to me about JavaScript or anything code related 🙂. <br>
+- 👨‍💻 I’m currently working at **[Amelia.ai 🤖](https://amelia.ai/)**
+
+- 🕸️ All of my projects are available at my [Portfolio Site 👆](https://ayushsahu.netlify.app)
+
+- 💬 Ask me about **react, Javascript , MERN, DSA**
+
+- 📫 How to reach me **sahuayush221000@gmail.com**
+
+- 📄 Know about my experiences [Resume 👆](https://ayushsahu.netlify.app/static/media/Ayush_Sahu_Resume.6378776b.pdf)
+
+- ⚡ Fun fact **I think I am too Lazy😴**
 
 
 <h2> Tech Stack </h2>
