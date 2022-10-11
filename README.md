@@ -2,7 +2,7 @@
 <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello < Developers />! </h1>
 <p align='center'>
    
-![visitors](https://visitor-badge.glitch.me/badge?page_id=iayushsahu.iayushsahu)
+![visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fiayushsahu&countColor=%23263759)
    
 </p>
 <div size='20px'> Hi! My name is <strong>Ayush</strong>. 
