@@ -14,7 +14,7 @@
 </div>
 <h2> About Me</h2>
 
-- 👨‍💻 I’m currently working at **[Amelia.ai 🤖](https://amelia.ai/)**
+- 👨‍💻 I’m currently working at **[Bhrish LTD](http://bhrish.com/)**
 
 - 🕸️ All of my projects are available at my [Portfolio 👆](https://ayushsahu.netlify.app)
 
@@ -81,7 +81,6 @@
    <p align="center">
 <a>
  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iayushsahu&layout=compact&langs_count=8&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-</a> <img height="160em" src="https://wakatime.com/share/@AyuJS/d866a7e4-7039-4c13-8893-1ce60807a4ed.svg"> </p>
 
 <h2> My GitHub Stats </h2>
 
