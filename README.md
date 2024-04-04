@@ -22,7 +22,7 @@
 
 - 📫 How to reach me [**iayushsahu 👈**](https://www.linkedin.com/in/iayushsahu)
 
-- 📄 Know about my experiences [Resume 👆](https://ayushsahu.netlify.app/static/media/Ayush_Sahu_Resume.6378776b.pdf)
+- 📄 Know about my experiences [Resume 👆](https://docs.google.com/viewer?url=https://github.com/iayushsahu/iayushsahu/blob/main/Ayush_sahu_apr_2024.pdf)
 
 - ⚡ Fun fact **I think I am too Lazy😴**
 
