@@ -16,7 +16,7 @@
 
 - 👨‍💻 I’m currently working at **[Bhrish LTD](http://bhrish.com/)**
 
-- 🕸️ All of my projects are available at my [Portfolio 👆](https://ayushsahu.netlify.app)
+- 🕸️ All of my projects are available at my [Portfolio 👆](https://iayushsahu.github.io/portfolio)
 
 - 💬 Ask me about **react, Javascript , MERN, DSA**
 
