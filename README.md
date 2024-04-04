@@ -16,7 +16,7 @@
 
 - 👨‍💻 I’m currently working at **[Bhrish LTD](http://bhrish.com/)**
 
-- 🕸️ All of my projects are available at my [Portfolio 👆](https://iayushsahu.github.io/portfolio){:target="_blank"}
+- 🕸️ All of my projects are available at my <a href="https://iayushsahu.github.io/portfolio" target="_blank">Portfolio 👆</a>
 
 - 💬 Ask me about **react, Javascript , MERN, DSA**
 
