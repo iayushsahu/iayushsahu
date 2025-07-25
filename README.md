@@ -1,4 +1,3 @@
-
 <h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello < Developers />! </h1>
 <p align='center'>
    
@@ -28,37 +27,50 @@
 
 
 <h2> Tech Stack </h2>
-  
-   
-![Java](https://img.shields.io/badge/-Java-444444?style=flat&logo=Java&logoColor=007ACC)
+
+![Java](https://img.shields.io/badge/-Java-444444?style=flat&logo=java&logoColor=007ACC)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-444444?style=flat&logo=javascript&logoColor=007ACC)
+![Groovy](https://img.shields.io/badge/-Groovy-444444?style=flat&logo=apache-groovy&logoColor=007ACC)
+![JSON](https://img.shields.io/badge/-JSON-444444?style=flat&logo=json&logoColor=007ACC)
 ![React](https://img.shields.io/badge/-React-444444?style=flat&logo=react&logoColor=007ACC)
+![Material-UI](https://img.shields.io/badge/-MUI-444444?style=flat&logo=mui&logoColor=007ACC)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-444444?style=flat&logo=bootstrap&logoColor=007ACC)
+![SCSS](https://img.shields.io/badge/-SCSS-444444?style=flat&logo=sass&logoColor=007ACC)
+![HTML5](https://img.shields.io/badge/-HTML5-444444?style=flat&logo=html5&logoColor=007ACC)
+![CSS3](https://img.shields.io/badge/-CSS3-444444?style=flat&logo=css3&logoColor=007ACC)
 ![Node.js](https://img.shields.io/badge/-Node.js-444444?style=flat&logo=node.js&logoColor=007ACC)
 ![Express](https://img.shields.io/badge/-Express-444444?style=flat&logo=express&logoColor=007ACC)
-![MongoDB](https://img.shields.io/badge/-MongoDB-444444?style=flat&logo=mongodb&logoColor=007ACC)
-![json](https://img.shields.io/badge/-json-444444?style=flat&logo=json&logoColor=007ACC)
-![HTML](https://img.shields.io/badge/-HTML-444444?style=flat&logo=HTML5&logoColor=007ACC) 
-![CSS](https://img.shields.io/badge/-CSS-444444?style=flat&logo=CSS3&logoColor=007ACC)
-![Material-ui](https://img.shields.io/badge/-Mui-444444?style=flat&logo=Mui&logoColor=007ACC)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-444444?style=flat&logo=bootstrap&logoColor=007ACC)
-![Scss](https://img.shields.io/badge/-SCSS-444444?style=flat&logo=sass&logoColor=007ACC)
+![Spring](https://img.shields.io/badge/-Spring-444444?style=flat&logo=spring&logoColor=007ACC)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-444444?style=flat&logo=spring-boot&logoColor=007ACC)
+![Microservices](https://img.shields.io/badge/-Microservices-444444?style=flat&logo=microgen&logoColor=007ACC)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-444444?style=flat&logo=postgresql&logoColor=007ACC)
 ![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=mysql&logoColor=007ACC)
+![MongoDB](https://img.shields.io/badge/-MongoDB-444444?style=flat&logo=mongodb&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/-Git-444444?style=flat&logo=git&logoColor=007ACC)
 ![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github&logoColor=007ACC)
-![Atom](https://img.shields.io/badge/-Atom-444444?style=flat&logo=Atom&logoColor=007ACC)
-![Netlify](https://img.shields.io/badge/-Netlify-444444?style=flat&logo=Netlify&logoColor=007ACC)
-![Heroku](https://img.shields.io/badge/-Heroku-444444?style=flat&logo=Heroku&logoColor=007ACC)
-![Codepen](https://img.shields.io/badge/-Codepen-444444?style=flat&logo=Codepen&logoColor=007ACC)
-![Windows](https://img.shields.io/badge/-Windows-444444?style=flat&logo=Windows&logoColor=007ACC)
-![Linux](https://img.shields.io/badge/-Linux-444444?style=flat&logo=Linux&logoColor=007ACC)
-![Kalilinux](https://img.shields.io/badge/-Kalilinux-444444?style=flat&logo=Kalilinux&logoColor=007ACC)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Vercel](https://img.shields.io/badge/-Vercel-444444?style=flat&logo=vercel&logoColor=007ACC)
+![Netlify](https://img.shields.io/badge/-Netlify-444444?style=flat&logo=netlify&logoColor=007ACC)
+![Render](https://img.shields.io/badge/-Render-444444?style=flat&logo=render&logoColor=007ACC)
+![VS Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJIDEA-444444?style=flat&logo=intellij-idea&logoColor=007ACC)
+![Atom](https://img.shields.io/badge/-Atom-444444?style=flat&logo=atom&logoColor=007ACC)
+![Maven](https://img.shields.io/badge/-Maven-444444?style=flat&logo=apache-maven&logoColor=007ACC)
+![CodePen](https://img.shields.io/badge/-CodePen-444444?style=flat&logo=codepen&logoColor=007ACC)
+![Windows](https://img.shields.io/badge/-Windows-444444?style=flat&logo=windows&logoColor=007ACC)
+![Linux](https://img.shields.io/badge/-Linux-444444?style=flat&logo=linux&logoColor=007ACC)
+![Kali Linux](https://img.shields.io/badge/-Kali_Linux-444444?style=flat&logo=kalilinux&logoColor=007ACC)
+![macOS](https://img.shields.io/badge/-macOS-444444?style=flat&logo=apple&logoColor=007ACC)
+![AWS](https://img.shields.io/badge/-AWS-444444?style=flat&logo=amazon-aws&logoColor=007ACC)
+![Firebase](https://img.shields.io/badge/-Firebase-444444?style=flat&logo=firebase&logoColor=007ACC)
+![Amelia](https://img.shields.io/badge/-Amelia.ai-444444?style=flat&logoColor=007ACC)
+![Dialogflow](https://img.shields.io/badge/-Dialogflow-444444?style=flat&logo=dialogflow&logoColor=007ACC)
+![DSA](https://img.shields.io/badge/-DSA-444444?style=flat&logo=code&logoColor=007ACC)
 
 ## Learning 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 
 
