@@ -17,7 +17,7 @@
 
 - 🕸️ All of my projects are available at my [Portfolio 👆](https://iayushsahu.github.io/portfolio)
 
-- 💬 Ask me about **react, Javascript , MERN, DSA**
+- 💬 Ask me about **Chatbot, React, Javascript, DSA**
 
 - 📫 How to reach me [**iayushsahu 👈**](https://www.linkedin.com/in/iayushsahu)
 
