@@ -98,10 +98,22 @@
 
 <p align="center">
 <a>
-                 <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=iayushsahu&theme=dracula&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iayushsahu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-  
+   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=iayushsahu&theme=dracula&hide_border=true" />
+   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iayushsahu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
 </a>
 </p>
+
+<h2> My Contributions </h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iayushsahu&theme=dracula&hide_border=true" />
+</p>
+
+<h2> GitHub Trophies </h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iayushsahu&theme=dracula&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
 
 
