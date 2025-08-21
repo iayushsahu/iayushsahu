@@ -15,7 +15,7 @@
 
 - 👨‍💻 I’m currently working at **[Bhrish LTD](http://bhrish.com/)**
 
-- 🕸️ All of my projects are available at my [Portfolio 👆](https://iayushsahu.github.io/portfolio)
+- 🕸️ All of my projects are available at my [Portfolio 👆](https://iayushsahu.github.io/portfolio.v2)
 
 - 💬 Ask me about **Chatbot, React, Javascript, DSA**
 
