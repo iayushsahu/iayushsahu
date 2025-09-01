@@ -28,11 +28,12 @@
 
 <h2> Tech Stack </h2>
 
-![Java](https://img.shields.io/badge/-Java-444444?style=flat&logo=java&logoColor=007ACC)
+![Python](https://img.shields.io/badge/-Python-444444?style=flat&logo=python&logoColor=3776AB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-444444?style=flat&logo=javascript&logoColor=007ACC)
 ![Groovy](https://img.shields.io/badge/-Groovy-444444?style=flat&logo=apache-groovy&logoColor=007ACC)
 ![JSON](https://img.shields.io/badge/-JSON-444444?style=flat&logo=json&logoColor=007ACC)
 ![React](https://img.shields.io/badge/-React-444444?style=flat&logo=react&logoColor=007ACC)
+![Java](https://img.shields.io/badge/-Java-444444?style=flat&logo=java&logoColor=007ACC)
 ![Material-UI](https://img.shields.io/badge/-MUI-444444?style=flat&logo=mui&logoColor=007ACC)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-444444?style=flat&logo=bootstrap&logoColor=007ACC)
 ![SCSS](https://img.shields.io/badge/-SCSS-444444?style=flat&logo=sass&logoColor=007ACC)
@@ -40,8 +41,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-444444?style=flat&logo=css3&logoColor=007ACC)
 ![Node.js](https://img.shields.io/badge/-Node.js-444444?style=flat&logo=node.js&logoColor=007ACC)
 ![Express](https://img.shields.io/badge/-Express-444444?style=flat&logo=express&logoColor=007ACC)
-![Spring](https://img.shields.io/badge/-Spring-444444?style=flat&logo=spring&logoColor=007ACC)
-![Spring Boot](https://img.shields.io/badge/-SpringBoot-444444?style=flat&logo=spring-boot&logoColor=007ACC)
 ![Microservices](https://img.shields.io/badge/-Microservices-444444?style=flat&logo=microgen&logoColor=007ACC)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-444444?style=flat&logo=postgresql&logoColor=007ACC)
 ![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=mysql&logoColor=007ACC)
